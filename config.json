@@ -1,0 +1,6 @@
+{
+  "max_read_kb": 150,
+  "denied_tools": [
+    "mcp__Roblox_Studio__screen_capture"
+  ]
+}
